@@ -1339,5 +1339,11 @@
     "type": "mixto",
     "website": "https://test.com/",
     "scope": "autonómico"
+  },
+  {
+    "name": "test3",
+    "type": "publico",
+    "website": "https://test.com/",
+    "scope": "estatal"
   }
 ]
